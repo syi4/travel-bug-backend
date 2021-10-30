@@ -10,7 +10,7 @@ This is a fullstack social media application using the mern stack + redux.
 # How to use
 * Sign up for an account
 * Create a post - this will automatically generate markers for you on your map based on location
-* Check your profile page and see all the countries you visited
+* Check your profile page and see all the places you visited
 * Ready to travel again? If you need inspiration, check other users maps
 
 # Profile Page
