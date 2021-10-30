@@ -13,6 +13,8 @@ This is a fullstack social media application using the mern stack + redux.
 * Check your profile page and see all the places you visited
 * Ready to travel again? If you need inspiration, check other users maps
 
+[Live Demo](https://travelbug-social.netlify.app/)
+
 # Profile Page
 
 
