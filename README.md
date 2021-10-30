@@ -18,5 +18,8 @@ This is a fullstack social media application using the mern stack + redux.
 
 
 
-# Home Page
 
+
+![Screen Shot 2021-10-30 at 12 52 38 AM](https://user-images.githubusercontent.com/86455240/139521785-21e356b7-124c-444e-80e7-5dac91c28cd1.png)
+
+# Home Page![Screen Shot 2021-10-30 at 12 51 57 AM](https://user-images.githubusercontent.com/86455240/139521788-bf5152d8-6f72-4efb-aa89-9131287c9f9f.png)
