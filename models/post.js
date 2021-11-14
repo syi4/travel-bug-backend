@@ -10,7 +10,6 @@ const postSchema = new mongoose.Schema({
   country: String,
   coordinates: { type: [Number] },
   selectedFile: String,
-  likes: { type: [String], default: [] },
   comments: { type: [String], default: [] },
   createdAt: {
     type: Date,

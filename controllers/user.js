@@ -1,7 +1,7 @@
 import argon2 from "argon2";
 import jwt from "jsonwebtoken";
-import User from "../models/user.models.js";
-import Post from "../models/post.models.js";
+import User from "../models/user.js";
+import Post from "../models/post.js";
 import { registerValidation } from "../validations/registerValidation.js";
 
 export const login = async (req, res) => {
