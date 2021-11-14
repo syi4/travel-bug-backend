@@ -4,7 +4,7 @@ import {
   createPostHandler,
   deletePostHandler,
   commentPostHandler,
-} from "../controllers/posts.controllers.js";
+} from "../controllers/posts.js";
 import { auth } from "../middlewares/auth.js";
 
 const router = express.Router();
